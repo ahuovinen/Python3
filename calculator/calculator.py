@@ -18,7 +18,7 @@ class calculator:
         return self.Total
      
 def main():
-    print("calculator class definition")
+    print("Calculator class definition file")
 
-if __name__ == "__main__":
+if __name__ == "__main__":      # check if used as main file. 
     main()
