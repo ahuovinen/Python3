@@ -20,5 +20,5 @@ class calculator:
 def main():
     print("Calculator class definition file")
 
-if __name__ == "__main__":      # check if used as main file. 
+if __name__ == "__main__":          # check if used as main file. 
     main()
